@@ -1,0 +1,2 @@
+# Requires: recursive-delay
+# (Not available on PyPI)
